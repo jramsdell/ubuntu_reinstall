@@ -17,3 +17,9 @@ For i3 bar.
 ```bash
  sudo apt-get install ttf-ancient-fonts
  ```
+ 
+ #### Get Working Directory
+ Script needed for i3
+ ```bash
+ https://github.com/schischi/xcwd
+```

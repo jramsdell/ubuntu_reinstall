@@ -23,3 +23,8 @@ For i3 bar.
  ```bash
  https://github.com/schischi/xcwd
 ```
+
+#### Terminator
+```bash
+sudo apt-get install terminator
+```

@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/hcgs/Dropbox/school/machine_learning/project/method_overview'
+let g:netrw_dirhist_2='/home/hcgs/Dropbox/school/machine_learning/project'
+let g:netrw_dirhist_3='/home/hcgs/Dropbox/school/machine_learning/project/method_overview'
+let g:netrw_dirhist_4='/home/hcgs/haskell/mcreator/mcreator/app'
+let g:netrw_dirhist_5='/home/hcgs/ai/learning_testbed/configurations'
+let g:netrw_dirhist_6='/home/hcgs/Dropbox/Notes'

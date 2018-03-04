@@ -29,7 +29,8 @@ For i3 bar.
 sudo apt-get install terminator
 ```
 
-#### Latex
+#### Latex Stuff
 ```bash
 sudo apt-get install texlive-full
+sudo apt-get install latexmk
 ```

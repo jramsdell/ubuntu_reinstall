@@ -28,3 +28,8 @@ For i3 bar.
 ```bash
 sudo apt-get install terminator
 ```
+
+#### Latex
+```bash
+sudo apt-get install texlive-full
+```

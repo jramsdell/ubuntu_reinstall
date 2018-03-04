@@ -34,3 +34,10 @@ sudo apt-get install terminator
 sudo apt-get install texlive-full
 sudo apt-get install latexmk
 ```
+
+#### PDF Stuff
+```bash
+sudo apt-get install mupdf
+```
+
+Download Mendeley: https://www.mendeley.com/guides/download-mendeley-desktop/ubuntu/instructions
